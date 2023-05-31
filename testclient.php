@@ -41,11 +41,11 @@
 	<script src="js/lib/backbone-min.js"></script>
 	<script src="js/panels.js"></script>
 
-	<script src="http://showdown-server.herokuapp.com/config/config.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/js/battledata.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/data/search-index.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/data/pokedex.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/data/teambuilder-tables.js?v0.9xy31"></script>
+	<script src="http://showdown-server.herokuapp.com/config.js?v0.9xy31"></script>
+	<script src="http://showdown-server.herokuapp.com/battledata.js?v0.9xy31"></script>
+	<script src="http://showdown-server.herokuapp.com/search-index.js?v0.9xy31"></script>
+	<script src="http://showdown-server.herokuapp.com/pokedex.js?v0.9xy31"></script>
+	<script src="http://showdown-server.herokuapp.com/teambuilder-tables.js?v0.9xy31"></script>
 	<script src="http://showdown-server.herokuapp.com/data/learnsets.js?v0.9xy31"></script>
 	<script src="http://showdown-server.herokuapp.com/data/moves.js?v0.9xy31"></script>
 	<script src="http://showdown-server.herokuapp.com/data/abilities.js?v0.9xy31"></script>
