@@ -2,5 +2,8 @@
   "dependencies": {
     "pokemon": "^2.3.5",
     "showdown": "^2.1.0"
+  },
+  "scripts": {
+    "start": "http-server"
   }
 }
