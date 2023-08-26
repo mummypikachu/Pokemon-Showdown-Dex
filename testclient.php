@@ -6,11 +6,11 @@
 	<title>Pok&eacute;dex - Pok&eacute;mon Showdown</title>
 
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE8" />
-	<link rel="stylesheet" href="http://showdown-server.herokuapp.com/style/font-awesome.css" />
+	<link rel="stylesheet" href="http://sigmatic-showdown.win:8080/style/font-awesome.css" />
 	<link rel="stylesheet" href="theme/panels.css?b1" />
 	<link rel="stylesheet" href="theme/main.css?b1" />
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<link rel="stylesheet" href="http://showdown-server.herokuapp.com/style/utilichart.css?b359" />
+	<link rel="stylesheet" href="http://sigmatic-showdown.win:8080/style/utilichart.css?b359" />
 	<link rel="stylesheet" href="theme/pokedex.css?b359" />
 
 	<!-- Workarounds for IE bugs to display trees correctly. -->
@@ -41,19 +41,19 @@
 	<script src="js/lib/backbone-min.js"></script>
 	<script src="js/panels.js"></script>
 
-	<script src="http://showdown-server.herokuapp.com/config.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/battledata.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/search-index.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/pokedex.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/teambuilder-tables.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/data/learnsets.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/data/moves.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/data/abilities.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/data/items.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/data/typechart.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/data/aliases.js?v0.9xy31"></script>
-	<script src="http://showdown-server.herokuapp.com/js/battle-dex-search.js?b359"></script>
-	<script src="http://showdown-server.herokuapp.com/js/search.js?b359"></script>
+	<script src="http://sigmatic-showdown.win:8080/config.js?v0.9xy31"></script>
+	<script src="http://sigmatic-showdown.win:8080/battledata.js?v0.9xy31"></script>
+	<script src="http://sigmatic-showdown.win:8080/search-index.js?v0.9xy31"></script>
+	<script src="http://sigmatic-showdown.win:8080/pokedex.js?v0.9xy31"></script>
+	<script src="http://sigmatic-showdown.win:8080/teambuilder-tables.js?v0.9xy31"></script>
+	<script src="http://sigmatic-showdown.win:8080/data/learnsets.js?v0.9xy31"></script>
+	<script src="http://sigmatic-showdown.win:8080/data/moves.js?v0.9xy31"></script>
+	<script src="http://sigmatic-showdown.win:8080/data/abilities.js?v0.9xy31"></script>
+	<script src="http://sigmatic-showdown.win:8080/data/items.js?v0.9xy31"></script>
+	<script src="http://sigmatic-showdown.win:8080/data/typechart.js?v0.9xy31"></script>
+	<script src="http://sigmatic-showdown.win:8080/data/aliases.js?v0.9xy31"></script>
+	<script src="http://sigmatic-showdown.win:8080/js/battle-dex-search.js?b359"></script>
+	<script src="http://sigmatic-showdown.win:8080/js/search.js?b359"></script>
 	<script src="js/pokedex.js?b359"></script>
 	<script src="js/pokedex-pokemon.js?b359"></script>
 	<script src="js/pokedex-moves.js?b359"></script>
